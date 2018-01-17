@@ -1,0 +1,20 @@
+
+//public class Application {
+//
+//	public static void main(String[] args) {
+//		System.out.println("Hello World");
+////println is java's way of printing to the console 
+//	}
+//
+//}
+
+////////VARIABLES/////////
+public class Application {
+
+	public static void main(String[] args) {
+		int myNumber = 88
+		
+		System.out.println(myNumber);
+	}
+
+}

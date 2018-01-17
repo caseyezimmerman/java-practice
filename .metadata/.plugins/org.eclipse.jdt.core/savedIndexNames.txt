@@ -1,0 +1,6 @@
+INDEX VERSION 1.130+/Users/caseyzimmerman/eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core
+482775344.index
+1891345690.index
+4153128352.index
+1676179634.index
+1228597486.index
